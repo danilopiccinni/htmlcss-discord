@@ -30,7 +30,7 @@ div.cont-nav{
 /* probabilmente dopo varrà per tutto il progetto */
 
                     /* debug */
-                        background-color: rgba(118, 117, 117, 0.423);
+                        /* background-color: rgba(118, 117, 117, 0.423); */
                     /* /debug */
 }
 
@@ -38,8 +38,8 @@ div.links {
     width: 60%;
 
                      /* debug */
-                        height: 70px;
-                        background-color: rgba(65, 65, 65, 0.229);
+                      
+                        /* background-color: rgba(65, 65, 65, 0.229); */
                     /* /debug */
 }
 
@@ -109,7 +109,7 @@ div.cont-header {
 
 
                         /* debug */
-                        background-color: rgba(118, 117, 117, 0.423);
+                        /* background-color: rgba(118, 117, 117, 0.423); */
                         /* /debug */
 
 
@@ -133,7 +133,7 @@ ul.link-header {
     list-style-type: none;
 
                         /* debug */
-                        background-color: rgba(65, 65, 65, 0.229);
+                        /* background-color: rgba(65, 65, 65, 0.229); */
                         /* /debug */
 }
 
@@ -195,7 +195,7 @@ div.boxsection-main {
 
 /* probabilmente dopo varrà per tutto il progetto */
     max-width: 80%;
-    height: 600px;   
+    height: 700px;   
     margin-left: auto;
     margin-right: auto;
 /* probabilmente dopo varrà per tutto il progetto */
