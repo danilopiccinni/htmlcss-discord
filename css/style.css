@@ -152,10 +152,7 @@ div.boxsection-main {
     padding-right: auto;
 /* probabilmente dopo varrà per tutto il progetto */
 
-                    /* debug */
-                    background-color: white;
-                    /* /debug */
-   
+    background-color: white;  
 }
 
 div.img {
@@ -250,14 +247,15 @@ div.img-final-section {
 
 
 div.final-descript1 {
+    text-align: center;
     font-size: 60px;
 }
 
 div.final-descript2 {
+    text-align: center;
     padding: 20px;
 
 }
-
 
 /* final section */
 /* --------------------------------- */
@@ -271,11 +269,8 @@ div.final-descript2 {
 /* --------------------------------- */
 /* footer */
 
-/* footer */
 footer {
     background-color: #23272a;
-
-  
 }
 
 footer .cont-footer {
@@ -335,10 +330,14 @@ div.cont-pie-di-pagina {
 
 div.footer-s1 {
      color: #7288da;
-     font-size: 40px;
+     font-size: 50px;
 
 }
+/* /footer */
+/* --------------------------------- */
 
+
+/* --------------------------------- */
 /* solo grafica */
 a.sign-in-button, a.down-mac {
     background-color: white;
@@ -377,3 +376,5 @@ img.screenshot {
     width: 350px;
     height: 100px;
 }
+/* /solo grafica */
+/* --------------------------------- */
