@@ -201,7 +201,7 @@ div.boxsection-main {
 
 /* probabilmente dopo varrà per tutto il progetto */
     max-width: 100%;
-    height: 700px;   
+    height: 1000px;   
     padding-left: auto;
     padding-right: auto;
 /* probabilmente dopo varrà per tutto il progetto */
@@ -425,3 +425,4 @@ div.end-footer {
     margin-left: auto;
     margin-right: auto;
 }
+
