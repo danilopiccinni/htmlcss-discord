@@ -89,12 +89,13 @@ div.cont-header {
 }
 
 ul.link-header {
-    width: 500px;
+    width: 550px;
 
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+
 
 
     list-style-type: none;
@@ -181,15 +182,15 @@ div.img-descript div {
 }
 
 div.img img {
-    height: 1000px;
-    width: 1000px;
+    height: 800px;
+    width: 800px;
 }
 
 div.img-descript1 {
     display: flex;
-    align-items: center;
+    align-items: flex-end;
 
-    padding-top: 70px;
+    padding-bottom: 70px;
     height: 70%;
     font-size: 40px;
 }
