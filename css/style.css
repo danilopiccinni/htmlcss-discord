@@ -339,7 +339,7 @@ div.footer-s1 {
 
 }
 
-
+/* solo grafica */
 a.sign-in-button, a.down-mac {
     background-color: white;
     color: black;
@@ -371,4 +371,9 @@ a.down-mac-section {
     border-radius: 25px;
     padding: 10px;
 
+}
+
+img.screenshot {
+    width: 350px;
+    height: 100px;
 }
