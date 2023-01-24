@@ -1,16 +1,18 @@
 
 /* nav */
 nav {
-
-
-
     height: 200px;
-
-                    /* debug */
-                        background-color: rgba(77, 165, 247, 0.406);
-                    /* /debug */
+    background-color: #255ee9;
+    font-size:x-large;
 }
 
+.nav-items a {
+    color: white;
+}
+
+div.logo,div.sign-in {
+
+}
 
 div.cont-nav{
     display: flex; 
@@ -33,7 +35,7 @@ div.cont-nav{
 }
 
 div.links {
-    width: 80%;
+    width: 60%;
 
                      /* debug */
                         height: 70px;
