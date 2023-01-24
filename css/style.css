@@ -107,6 +107,8 @@ div.cont-header {
 
     text-align: center;
 
+    font-size: x-large;
+
 
                         /* debug */
                         /* background-color: rgba(118, 117, 117, 0.423); */
@@ -122,7 +124,7 @@ div.cont-header {
 }
 
 ul.link-header {
-    width: 400px;
+    width: 500px;
 
     display: flex;
     flex-direction: row;
@@ -131,6 +133,8 @@ ul.link-header {
 
 
     list-style-type: none;
+
+    font-size: 25px;
 
                         /* debug */
                         /* background-color: rgba(65, 65, 65, 0.229); */
@@ -181,6 +185,8 @@ div.cont-header {
 
 main {
     width: 100%;
+
+    
   
                         /* debug */
                         background-color: rgba(128, 128, 128, 0.239);
@@ -201,7 +207,7 @@ div.boxsection-main {
 /* probabilmente dopo varrà per tutto il progetto */
 
                     /* debug */
-                    background-color: rgba(118, 117, 117, 0.423);
+                    background-color: white);
                     /* /debug */
    
 }
