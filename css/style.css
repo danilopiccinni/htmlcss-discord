@@ -232,14 +232,20 @@ div#reverse-descript {
 /* final-section */
 
 div.final-section {
-    background-color: #e8e8e8;;
+    background-color: #e8e8e8;
+
+    height: 1200px;
+
+    
+
 }
 div.img-final-section {
+    
+    display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     padding: 20px;
-
 }
 
 
@@ -252,10 +258,7 @@ div.final-descript2 {
 
 }
 
-div.img-final-section {
-    display: flex;
-    justify-content: center;
-}
+
 /* final section */
 /* --------------------------------- */
 
@@ -359,4 +362,13 @@ a.link-web {
 
     border-radius: 25px;
     padding: 10px;
+}
+
+a.down-mac-section {
+    background-color: #7288da;
+    color: white;
+
+    border-radius: 25px;
+    padding: 10px;
+
 }
