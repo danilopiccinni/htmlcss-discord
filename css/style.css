@@ -1,5 +1,5 @@
 body {
-
+    font-family: 'Rubik', sans-serif;
 }
 
 
@@ -371,6 +371,9 @@ a.down-mac-section {
     border-radius: 25px;
     padding: 10px;
     font-size: 35px;
+}
+
+a {
     text-decoration: none;
 }
 
@@ -388,8 +391,13 @@ img.reverse {
 }
 
 img.band-ita {
+
     width: 20px;
     height: 20px;
+}
+
+div.f-s2{
+    color: white;
 }
 /* /solo grafica */
 /* --------------------------------- */
