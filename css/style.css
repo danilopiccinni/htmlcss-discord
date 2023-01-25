@@ -382,6 +382,10 @@ a.down-mac-section {
     font-size: 35px;
 }
 
+a:hover {
+    background-color: rgba(255, 255, 255, 0.381);
+}
+
 a {
     text-decoration: none;
 }
