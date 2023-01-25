@@ -290,6 +290,8 @@ div.footer-sinistro {
     display: flex;
     flex-direction: column;
     max-width: 20%;
+    height: 70%;
+    justify-content: space-around;
 }
 
 
@@ -369,6 +371,7 @@ a.down-mac-section {
     border-radius: 25px;
     padding: 10px;
     font-size: 35px;
+    text-decoration: none;
 }
 
 img.screenshot {
@@ -384,5 +387,9 @@ img.reverse {
     transform: rotate(180deg);
 }
 
+img.band-ita {
+    width: 20px;
+    height: 20px;
+}
 /* /solo grafica */
 /* --------------------------------- */
