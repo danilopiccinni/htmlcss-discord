@@ -414,3 +414,34 @@ div.f-s2{
 }
 /* /solo grafica */
 /* --------------------------------- */
+
+
+
+body.sign-in {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image: url(../img/jumbo.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+div.sign-in-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+
+    background-color: #23272a;
+    width: 500px;
+    height: 500px;
+
+    padding-top: 15px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
